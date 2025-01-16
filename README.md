@@ -2,4 +2,7 @@
 
 This repository contains mini CafeMenu project, that I made while learning Responsive Web Design from freeCodeCamp.
 
-![image](https://github.com/krishnapatel18/CafeMenu/assets/155523336/eddf2a60-57bc-43eb-8d30-ae64eb2f924e)
+Screenshot of the project- 
+![image](https://github.com/user-attachments/assets/dd19167c-0a62-40f5-89c9-d4fa9d1c2fc8)
+
+![image](https://github.com/user-attachments/assets/a3b2d6ba-c5a5-488e-9a62-e7c508a7933f)
